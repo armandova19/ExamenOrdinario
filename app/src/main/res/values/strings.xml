@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OrdinarioExamen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_name">Jose Armando Vazquez(20164999)</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="button">Continuar</string>
+    <string name="splah">Examen Ordinario</string>
+</resources>
